@@ -5,7 +5,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
 //(abstract classes cannot be instantiated)
-public abstract class BasePage {
+public class BasePage {
 
     public static WebDriver driver;
 
